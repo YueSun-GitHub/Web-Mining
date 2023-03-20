@@ -1,2 +1,3 @@
 # Web-Mining
-Coursework and Project 
+
+Pandas, NumPy, SciPy, Keras, Tensorflow, Scikit learn, Matplotlib, Seaborn, BeautifulSoup, Selenium, Regex
