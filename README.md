@@ -1,3 +1,3 @@
 # Web-Mining
 
-Pandas, NumPy, SciPy, Keras, Tensorflow, Scikit learn, Matplotlib, Seaborn, BeautifulSoup, Selenium, Regex
+Pandas, NumPy, SpaCy, Keras, Pytorch, Scikit learn, Matplotlib, Seaborn, BeautifulSoup, Selenium
